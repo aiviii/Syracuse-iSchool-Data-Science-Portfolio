@@ -13,9 +13,12 @@ Portfolio Requirement for the Applied Data Science Graduate Program at Syracuse 
 ## Project
 Directories:
 1. Documents
-    * Olivieri_Portfolio.docx
     * Anthony-Olivieri-Resume-2019.pdf
+    * Olivieri_Portfolio.docx
+
 2. Projects
+    * Pittsburgh-Real-Estate-Data-Analysis
+    * Political-Tweets-Sentiment-Analysis
 
 3. Presentations
     * video
