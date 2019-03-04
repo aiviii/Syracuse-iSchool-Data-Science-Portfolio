@@ -21,8 +21,3 @@ Directories:
     * National-Real-Estate-Analysis
     * Pittsburgh-Real-Estate-Data-Analysis
     * Political-Tweets-Sentiment-Analysis
-
-3. Presentations
-    * video
-    * slide_deck
-
