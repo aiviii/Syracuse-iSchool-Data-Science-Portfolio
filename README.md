@@ -19,5 +19,5 @@ Directories:
 2. Projects
     * Data-Vizualization
     * National-Real-Estate-Analysis
-    * Pittsburgh-Real-Estate-Data-Analysis
+    * Pittsburgh-Real-Estate-Analysis
     * Political-Tweets-Sentiment-Analysis
