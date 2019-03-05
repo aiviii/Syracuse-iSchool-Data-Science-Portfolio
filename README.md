@@ -10,7 +10,7 @@ Portfolio Requirement for the Applied Data Science Graduate Program at Syracuse 
 
 **email**: aolivier@syr.edu
 
-## Project
+## Portfolio Files
 Directories:
 1. Documents
     * Anthony-Olivieri-Resume-2019.pdf
